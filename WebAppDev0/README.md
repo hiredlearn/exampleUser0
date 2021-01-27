@@ -21,7 +21,7 @@ The developer successfully completed an Entry Level SW project and clearly under
 
 **Total assignment time:** 3 days       
 
-This is an on-time for submission. No complaints could be made.
+Assignee completed the Assignment well within the expected time-frame. 
 
 ### Assesment Questions: [Questions.md](https://github.com/hiredlearntest/WebAppDev0/blob/master/Questions.md)     
 
