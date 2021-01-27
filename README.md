@@ -57,6 +57,4 @@ MAC OS:
 - [Microsoft Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/)  
 - [Azure Data Studio for macOS](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
   - Alternative for Windows Microsoft SQL Server   
-  
-  
-# exampleUser0
+
