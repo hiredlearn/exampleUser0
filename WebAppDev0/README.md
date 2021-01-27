@@ -23,10 +23,11 @@ The developer successfully completed an Entry Level SW project and clearly under
 
 Assignee completed the Assignment well within the expected time-frame. 
 
-### Assesment Questions: [Questions.md](https://github.com/hiredlearntest/WebAppDev0/blob/master/Questions.md)     
-
-Assessment questions were answered **on camera** (available to Verified Employers: email verify@hiredlearn.com). All were answered correctly, and the assignee clearly understood the example implemented here. They also answered in an efficient amount of time, showing research wasnt required for answering.     
-       
+### Assesment Questions:
+         
+[Questions.md](https://github.com/hiredlearntest/WebAppDev0/blob/master/Questions.md): Questions were answered **on camera**, and the audio file was reviewed by the Assigner. This may be available to Verified Employers by emailing verify@hiredlearn.com.     
+        
+All were answered correctly, and the asignee clearly understood the example implemented here. They also answered in an efficient amount of time, showing research wasnt required for answering.     
 **Total answering time:** 35 min 
 
 # Assignment:   
