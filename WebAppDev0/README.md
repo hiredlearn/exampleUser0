@@ -25,7 +25,7 @@ This is an on-time for submission. No complaints could be made.
 
 ### Assesment Questions: [Questions.md](https://github.com/hiredlearntest/WebAppDev0/blob/master/Questions.md)     
 
-Assessment questions were answered **on camera**. All were answered correctly, and the asignee clearly understood the example implemented here. They also answred in an efficient amount of time, showing research wasnt required for answering.     
+Assessment questions were answered **on camera** (available to Verified Employers: email verify@hiredlearn.com). All were answered correctly, and the assignee clearly understood the example implemented here. They also answered in an efficient amount of time, showing research wasnt required for answering.     
        
 **Total answering time:** 35 min 
 
