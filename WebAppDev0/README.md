@@ -19,7 +19,7 @@ The developer successfully completed an Entry Level SW project and clearly under
 </p>
   
 
-**Total assignment time:** 3 days       
+**Total Assignment Time:** 3 days       
 
 Assignee completed the Assignment well within the expected time-frame. 
 
@@ -29,7 +29,7 @@ Assignee completed the Assignment well within the expected time-frame.
         
 All were answered correctly, and the asignee clearly understood the example implemented here. They also answered in an efficient amount of time, showing research wasnt required for answering.     
        
-**Total answering time:** 35 min 
+**Total Answering Time:** 35 min 
 
 # Assignment:   
 
