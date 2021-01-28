@@ -9,7 +9,7 @@
       
 * Assignment submissions are only allowed before their Deadline and an assignee can never make commits to their User Repository. Additionally, the identities of the assignee and the Assigner remain fully hidden from one another, so that no type of outside manipulation is possible.
       
-* If you are an employer, please email reyancey@ucdavis.edu for any proof or the details of the Assigner's Assignment Instructions.     
+* Please, email verify@hiredlearn.com for any proof or the details of the Assigner's Assignment Instructions.     
   
 ### User Identification Information:
  
