@@ -27,9 +27,11 @@ Assignee completed the Assignment well within the expected time-frame.
          
 [Questions.md](https://github.com/hiredlearntest/WebAppDev0/blob/master/Questions.md): Questions were answered **on camera**, and only the audio file was reviewed by the Assigner. Recordings can be available to Verified Employers by emailing verify@hiredlearn.com.     
         
+**Total Answering Time:** 35 min
+        
 All were answered correctly, and the asignee clearly understood the example implemented here. They also answered in an efficient amount of time, showing research wasnt required for answering.     
        
-**Total Answering Time:** 35 min 
+ 
 
 # Assignment:   
 
