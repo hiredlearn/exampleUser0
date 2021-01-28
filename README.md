@@ -1,7 +1,7 @@
 # exampleUser0
 
 
-### This Repository was created for a job candidate in a private research study. Please, note the following points. 
+### This Repository was created for a candidate in a private research study. Please, note the following points. 
   
 * All Assignments and corresponding Reviews & Assessment are newly written and verified by multiple experienced employees/professionals specializing in the Assignment's Required Skills at a well-known companies. Each original copyright is assigned to Robin Yancey's Research to only ever be used for the purpose of this one assignee's Assignment.
      
