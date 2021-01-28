@@ -9,12 +9,12 @@
       
 * Assignment submissions are only allowed before their Deadline and an assignee can never make commits to their User Repository. Additionally, the identities of the assignee and the Assigner remain fully hidden from one another, so that no type of outside manipulation is possible.
       
-* [Verified Employers](https://reyancey.wixsite.com/learn/employers may contact for any proof or the details of the Assigner's Assignment Instructions.     
+* [Verified Employers](https://reyancey.wixsite.com/learn/employers) may contact for any proof or the details of the Assigner's Assignment Instructions.     
   
 ### User Identification Information:
  
 **Full Name:** Available to [Verified Employers](https://reyancey.wixsite.com/learn/employers).         
-**Email:** Available to [Verified Employers](https://reyancey.wixsite.com/learn/employers.   
+**Email:** Available to [Verified Employers](https://reyancey.wixsite.com/learn/employers).   
       
     
 # Overall Review History:   
