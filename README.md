@@ -19,7 +19,7 @@
     
 # Overall Review History:   
     
-* For more detailed Reviews and/or materials for an individual Assignment below, follow the corresponding link.  
+* Follow the corresponding links for the detailed Reviews and/or other Assignment materials.  
 
     * Note; An assignee may choose not to publicize the Reviews & Assessment for a particular Assignment.  
   
