@@ -3,7 +3,7 @@
 
 ### This Repository was created for a candidate in a private research study. Please, note the following points. 
   
-*All Assignments, Reviews, & Assessments are newly written and verified by multiple experienced employees/professionals specializing in the Assignment's Required Skills at well-known companies. Each original copyright is assigned to Robin Yancey's Research to only ever be used for the purpose of this one assignee's Assignment.
+* All Assignments, Reviews, & Assessments are newly written and verified by multiple experienced employees/professionals specializing in the Assignment's Required Skills at well-known companies. Each original copyright is assigned to Robin Yancey's Research to only ever be used for the purpose of this one assignee's Assignment.
     
 * The entire setup and Assignment is designed to match a typical task given to an employee at the Assigner's company. Therefore, it can be used to directly assess the Required Skills and potential for success of an assignee.
     
