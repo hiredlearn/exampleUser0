@@ -1,6 +1,4 @@
 ## WebAppDev0
-# Job Title: Entry Level Web Development
-## Assignment's Required Skills: ASP.NET, SQL Server, MS Visual Studio, Entity Framework
 
 ### This Repository was created for a candidate in a private research study. Please, note the following points. 
   
@@ -13,6 +11,11 @@
       
 * [Verified Employers](https://reyancey.wixsite.com/learn/employers) may contact for any proof or the details of the Assigner's Assignment Instructions. 
 
+       
+       
+# Job Title: Entry Level Web Development
+## Assignment's Required Skills: ASP.NET, SQL Server, MS Visual Studio, Entity Framework
+           
 # Assessment & Reviews:  
 
 
