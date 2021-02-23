@@ -3,14 +3,14 @@
 
 ### This Repository was created for a candidate in a private research study. Please, note the following points. 
   
-* All Assignments, Reviews, & Assessments are newly written and verified by multiple experienced employees/professionals specializing in the Assignment's Required Skills at well-known companies. Each original copyright is assigned to Robin Yancey's Research to only ever be used for the purpose of this one assignee's Assignment.
+* All Assignments, Reviews, & Assessments are newly written and verified by experienced employees/professionals specializing in the Assignment's Required Skills at well-known companies. Each original copyright is assigned to HiredLearn to only ever be used for the purpose of this one assignee's Assignment.
     
 * The entire setup and Assignment is designed to match a typical task given to an employee at the Assigner's company. Therefore, it can be used to directly assess the Required Skills and potential for success of an assignee.
     
 * Assignment submissions are only allowed before their final Deadline and an assignee can never make commits directly to their User Repository. Additionally, the identities of the assignee and the Assigner always remain fully hidden from eachother, so that no type of outside manipulation is possible.
 
       
-* [Verified Employers](https://reyancey.wixsite.com/learn/employers) may contact for any proof or the details of the Assigner's Assignment Instructions.     
+* [Verified Employers](https://reyancey.wixsite.com/learn/employers) may contact for any proof.     
   
 ### User Identification Information:
  
