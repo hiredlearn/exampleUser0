@@ -1,28 +1,34 @@
 # exampleUser0
 
 
-### This Repository was created for a candidate in a private research study. Please, note the following points. 
+### This Repository was created by HiredLearn. Please, note the following points. 
   
-* All Assignments, Reviews, & Assessments are newly written and verified by experienced employees/professionals specializing in the Assignment's Required Skills at well-known companies. Each original copyright is assigned to HiredLearn to only ever be used for the purpose of this one assignee's Assignment.
-    
-* The entire setup and Assignment is designed to match a typical task given to an employee at the Assigner's company. Therefore, it can be used to directly assess the Required Skills and potential for success of an assignee.
-    
-* Assignment submissions are only allowed before their final Deadline and an assignee can never make commits directly to their User Repository. Additionally, the identities of the assignee and the Assigner always remain fully hidden from eachother, so that no type of outside manipulation is possible.
+Each is authentic:
+- All Assignments and Reviews are created by HiredLearn based on in-depth interviews conducted with an experienced full-time employee specializing in the Assignment's Required Skills at a well-known company. 
+The original copyright is owned by HiredLearn and is only used for the purpose of one Learner's Assignment.
+unique:
+- The entire setup of the Assignment and Review is uniquely designed to match to one of the most common tasks and types of assessment given to an employee at the Assigner's company as closely as possible!
+Therefore, it can be used to directly assess the Required Skills and potential for success of a Learner in the given Job-Title.
+accurate:
+- Each Assignment is newly written after carefully verifying an Assigner's proof of employment. Then, each Assignment and Review is double-checked for accuracy by another even more experienced professional in the field. 
+and realistic:
+- Assignment submissions are only allowed before their final Deadline and only HiredLearn can ever make changes or additions to their User Repository containing all of the Learner's past Assignment Portfolios.
+Additionally, the identities of the Learner and the Assigner always remain fully hidden from each other, so that no type of outside Review manipulation is possible.
 
       
-* [Verified Employers](https://reyancey.wixsite.com/learn/employers) may contact for any proof.     
+* [Verified Employers](https://hiredlearn.com/Hire) may contact for any proof.     
   
 ### User Identification Information:
  
-**Full Name:** Available to [Verified Employers](https://reyancey.wixsite.com/learn/employers).         
-**Email:** Available to [Verified Employers](https://reyancey.wixsite.com/learn/employers).   
+**Full Name:** Available to [Verified Employers](https://hiredlearn.com/Hire).         
+**Email:** Available to [Verified Employers](https://hiredlearn.com/Hire).   
       
     
 # Assignment History:   
     
 * Follow the corresponding links for the detailed Reviews and/or other Assignment materials.  
 
-    * Note; An assignee may choose not to publicize the Reviews & Assessment for a particular Assignment.  
+    * Note: An assignee may choose not to publicize their Reviews for a particular Assignment.  
   
 ### 1. Entry Level Web Development - [WebAppDev0](https://github.com/hiredlearn/exampleUser0/tree/main/WebAppDev0)
 **Date:** 12-26-2020  
