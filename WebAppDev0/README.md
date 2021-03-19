@@ -9,7 +9,7 @@
 
 ### Professional Assigner Reviews: 
 
-**Summary:**  
+**Summary Statement:**  
   
 The developer successfully completed an Entry Level SW project and clearly understands the business flows and requirements.
 
