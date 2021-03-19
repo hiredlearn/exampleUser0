@@ -9,7 +9,7 @@ The original copyright is owned by HiredLearn and is only used for the purpose o
 - The entire setup of the Assignment and Review is uniquely designed to match to one of the most common tasks and types of assessment given to an employee at the Assigner's company as closely as possible!
 Therefore, it can be used to directly assess the Required Skills and potential for success of a Learner in the given Job-Title.
 
-- Each Assignment is newly written after carefully verifying an Assigner's proof of employment. Then, each Assignment and Review is double-checked for accuracy by another even more experienced professional in the field. 
+- Each Assignment is newly written after carefully verifying an Assigner's proof of employment. Then, each Assignment and Review is double-checked for accuracy by another even more experienced managerial professional in the field. 
 
 - Assignment submissions are only allowed before their final Deadline and only HiredLearn can ever make changes or additions to their User Repository containing all of the Learner's past Assignment Portfolios.
 Additionally, the identities of the Learner and the Assigner always remain fully hidden from each other, so that no type of outside Review manipulation is possible.
