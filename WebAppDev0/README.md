@@ -36,7 +36,7 @@ All were answered correctly, and the asignee clearly understood the example impl
 
 # Assignment:   
 
-## Instructions:   
+## Instructions Summary:   
 Please, create an ASP.NET web application containing the below mentioned features:
 - ASP.NET Identity for authentication purposes
 - SQL Server as a database
