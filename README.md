@@ -24,11 +24,7 @@ Additionally, the identities of the Learner and the Assigner always remain fully
       
     
 # Assignment History:   
-    
-* Follow the corresponding links for the detailed Reviews and/or other Assignment materials.  
 
-    * Note: An assignee may choose not to publicize their Reviews for a particular Assignment.  
-  
 ### 1. Entry Level Web Development - [WebAppDev0](https://github.com/hiredlearn/exampleUser0/tree/main/WebAppDev0)
 **Date:** 12-26-2020  
 **Summary:**  The developer successfully completed an Entry Level SW project and clearly understands the business flows and requirements.
